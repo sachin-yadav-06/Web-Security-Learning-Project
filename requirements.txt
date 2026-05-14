@@ -1,0 +1,13 @@
+# Web Security Learning Project — Requirements
+# Author: Sachin Kumar | sachinyadav2063@gmail.com
+#
+# Install all dependencies:
+#   pip install -r requirements.txt
+#
+# Run the demo app:
+#   python app.py
+#   Open: http://127.0.0.1:5000
+#
+# ⚠️ Run ONLY on localhost — never expose to the internet
+
+flask==3.0.3
